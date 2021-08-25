@@ -1,1 +1,1 @@
-
+In this question, i have try to improve the visualization by making it simple so that even the non technical person can understand what we want to say through graph.As most of the time general audience visits the website.
